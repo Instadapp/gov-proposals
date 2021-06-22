@@ -9,4 +9,4 @@ Currently, the governance of the protocol contracts is held by a [10-day timeloc
 
 It will replace the team’s MultiSig admin with Governance. All future changes to connectors will be managed by Governance. This proposal will finalize the distribution of the underlying admin rights held by the team to the community.
 
-**Forum link**: 
+**Forum link**: [Governance Acceptance of Admin Rights](https://gov.instadapp.io/t/gov-acceptance-of-admin-rights/66)
