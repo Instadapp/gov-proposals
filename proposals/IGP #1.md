@@ -1,5 +1,3 @@
-# Governance Acceptance of Admin Rights
-
 - Replace the 10-day Multisig timelock with the Governance timelock
 - Replace the "chief" role from the team Multisig to Governance.
 
