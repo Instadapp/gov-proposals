@@ -1,5 +1,5 @@
-- Replace the 10-day Multisig timelock with the Governance timelock
-- Replace the "chief" role from the team Multisig to Governance.
+1. Replace the 10-day Multisig timelock with the Governance timelock
+2. Replace the "chief" role from the team Multisig to Governance.
 
 ### Description
 
