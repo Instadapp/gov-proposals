@@ -1,4 +1,4 @@
-IGP#3 - DSL Upgrade - September Edition
+IGP#3 - DSL September 2021 Upgrade
 
 ### Summary of Code Changes:
 - Modifies the ‘votingDelay’ parameter and sets it to 2 days (~13140 blocks).
